@@ -23,3 +23,22 @@ branch in cui ci si trova e i loro hashcode è GIT LOG.
 repository oltre a permettere di non eseguire il comando GIT INIT; git pull
 invece richiede che nella repository sia già stato eseguito il comando GIT
 INIT.
+
+8) I rami di sviluppo in GIT (branches) permettono all'utente di lavorare 
+fuori dal MAIN (o MASTER) e quindi di aggiungere nuove funzioni che solo dopo
+che esse saranno complete verranno "fuse" con il MAIN.
+I branch permettono inoltre di avere sempre una versione funzionante e permette 
+a più programmatori che lavorano in un progetto ad avere la granzia che il main 
+non stia venendo modificato e quindi di poterlo utilizzare. 
+Per creare un branch si utilizza il comando 
+GIT CHECKOUT -B [NOME DEL BRANCH DA CREARE].
+
+Per spostarsi in un branch esistente si utilizza il comando
+GIT CHECKOUT [NOME DEL BRANCH IN QUI SPOSTARSI].
+
+Per unire le modifiche tra due branch si utilizza il comando
+GIT MERGE [NOME DEL BRANCH DA UNIRE]
+verranno uniti il branch in qui ci si trova con quello selezionato nel comando merge.
+
+Per vedere in che branch ci troviamo si utilizza il comando
+GIT LOG
