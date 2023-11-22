@@ -54,12 +54,12 @@ GIT LOG
 	esigenze del cliente e privo di errori.
 
 10) Il ciclo di vita del software sono le fasi che costituiscono il software dalla creazione
-fino a quando esso non viene utilizzato più.
+fino a quando esso non verrà più utilizzato.
 Le fasi in cui è suddivisa la vita del software sono:
-	-ANALISI: vengono valutati i costi per la realizzazione;
+	-ANALISI: vengono valutati i costi per la realizzazione e i requisiti del sistema;
 	
 	-PROGETTAZIONE: viene deciso cosa bisogna fare e viene assegnato il Project
-	Manager e il WP che dovrà svolgere ogni programmatore;
+	Manager e il lavoro che dovrà svolgere ogni programmatore;
 
 	-REALIZZAZIONE: viene realizzato il programma;
 
