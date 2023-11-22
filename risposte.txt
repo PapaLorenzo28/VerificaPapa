@@ -11,3 +11,11 @@ branch in cui ci si trova e i loro hashcode è GIT LOG.
 
 5) Il comando per effettuare il rollback ad una commit precedente è:
 	GIT RESET --HARD [HASH DELLA COMMIT]
+
+6) Le due motivazioni per giustificare l’utilizzo di GIT sono:
+	- GIT facilita il lavoro in gruppo in quanto è possibile dividersi
+	i compiti da svolgere in branch.		
+
+	- GIT permette di ritornare a versioni precedenti del proprio 
+	lavoro in caso di errore.
+	
