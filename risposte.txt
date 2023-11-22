@@ -52,3 +52,21 @@ GIT LOG
 
 	-MANUTENZIONE: consiste nel mantenere il programma aggiornato in base alle
 	esigenze del cliente.
+
+10) Il ciclo di vita del software sono le fasi che costituiscono il software dalla creazione
+fino a quando esso non viene utilizzato più.
+Le fasi in cui è suddivisa la vita del software sono:
+	-ANALISI: vengono valutati i costi per la realizzazione;
+	
+	-PROGETTAZIONE: viene deciso cosa bisogna fare e viene assegnato il Project
+	Manager e il WP che dovrà svolgere ogni programmatore;
+
+	-REALIZZAZIONE: viene realizzato il programma;
+
+	-AVVIO IN PRODUZIONE: viene consegnato e collaudato il programma dal cliente;
+	
+	-MANUTENZIONE: eistono tre tipi di mautenzione:
+		-manutenzione adattativa: vengono modificate delle funzioni;
+		-manutenzione correttiva: viene corretto un eventuale errore nel programma;
+		-manutenzione evoloutiva: vengono aggiunte funzioni in base alle esigenze 
+		del cliente.
