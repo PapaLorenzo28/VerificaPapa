@@ -51,7 +51,7 @@ GIT LOG
 	-RIUTILIZZO: ovvero se delle parti di codice possono venire riutilizzate;
 
 	-MANUTENZIONE: consiste nel mantenere il programma aggiornato in base alle
-	esigenze del cliente.
+	esigenze del cliente e privo di errori.
 
 10) Il ciclo di vita del software sono le fasi che costituiscono il software dalla creazione
 fino a quando esso non viene utilizzato più.
