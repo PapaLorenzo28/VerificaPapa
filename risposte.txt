@@ -27,9 +27,9 @@ INIT.
 8) I rami di sviluppo in GIT (branches) permettono all'utente di lavorare 
 fuori dal MAIN (o MASTER) e quindi di aggiungere nuove funzioni che solo dopo
 che esse saranno complete verranno "fuse" con il MAIN.
-I branch permettono inoltre di avere sempre una versione funzionante e permette 
-a più programmatori che lavorano in un progetto ad avere la granzia che il main 
-non stia venendo modificato e quindi di poterlo utilizzare. 
+Grazie ai branch è quindi possibile avere sempre una versione aggiornata del MAIN
+in quanto questo non verrà modificato fino a completazione di un branch.
+
 Per creare un branch si utilizza il comando 
 GIT CHECKOUT -B [NOME DEL BRANCH DA CREARE].
 
