@@ -42,3 +42,13 @@ verranno uniti il branch in qui ci si trova con quello selezionato nel comando m
 
 Per vedere in che branch ci troviamo si utilizza il comando
 GIT LOG
+
+9) L’ingegneria del software si occupa di:
+	-PROGETTAZIONE: cioè la creazione di un progetto;
+	
+	-PROGRAMMAZIONE: la creazione del programma;
+
+	-RIUTILIZZO: ovvero se delle parti di codice possono venire riutilizzate;
+
+	-MANUTENZIONE: consiste nel mantenere il programma aggiornato in base alle
+	esigenze del cliente.
