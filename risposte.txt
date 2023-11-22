@@ -19,10 +19,9 @@ branch in cui ci si trova e i loro hashcode è GIT LOG.
 	- GIT permette di ritornare a versioni precedenti del proprio 
 	lavoro in caso di errore.
 	
-7) La differenza tra git clone e git pull è che git clone copia l'intera
-repository oltre a permettere di non eseguire il comando GIT INIT; git pull
-invece richiede che nella repository sia già stato eseguito il comando GIT
-INIT.
+7) La differenza tra git clone e git pull è che git clone oltre a copiare 
+copiare l'intera repository esegue già il comando GIT INIT; git pull
+permette di copiare solo la commit più recente del branch.
 
 8) I rami di sviluppo in GIT (branches) permettono all'utente di lavorare 
 fuori dal MAIN (o MASTER) e quindi di aggiungere nuove funzioni che solo dopo
